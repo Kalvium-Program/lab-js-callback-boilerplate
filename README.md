@@ -6,8 +6,7 @@ You need to solve this lab in the order given below:
 
 1. withoutCallback.js
 2. callback.js
-3. promise.js
-4. promise-async.js
+
 
 **NOTE:** There is only one ***html*** file, in this lab. So, you need to change the ***src***, in ***index.html*** file, in order to run a particular js file.
 For eg: 
